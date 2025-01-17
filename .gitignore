@@ -1,3 +1,5 @@
 /build/
 /dist/
 usage_stats.db
+.gitattributes
+.gitignore
